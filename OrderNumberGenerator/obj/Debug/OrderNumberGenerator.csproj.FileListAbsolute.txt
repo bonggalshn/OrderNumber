@@ -1,0 +1,4 @@
+D:\01. Kuliah\00. SEMESTER 8\03. RPLBK\Project\OrderNumberGenerator\OrderNumberGenerator\bin\Debug\OrderNumberGenerator.dll
+D:\01. Kuliah\00. SEMESTER 8\03. RPLBK\Project\OrderNumberGenerator\OrderNumberGenerator\bin\Debug\OrderNumberGenerator.pdb
+D:\01. Kuliah\00. SEMESTER 8\03. RPLBK\Project\OrderNumberGenerator\OrderNumberGenerator\obj\Debug\OrderNumberGenerator.dll
+D:\01. Kuliah\00. SEMESTER 8\03. RPLBK\Project\OrderNumberGenerator\OrderNumberGenerator\obj\Debug\OrderNumberGenerator.pdb
